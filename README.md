@@ -4,7 +4,9 @@ Note Pad is a simple web-based application for taking notes. This project is bui
 ## Features
 
 > Add a Note: Write and store your notes with ease.
+
 > Delete a Note: Remove unwanted notes effortlessly.
+
 > Search Notes: Find specific notes quickly by searching for keywords.
 
 ## Usage
