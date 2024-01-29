@@ -34,3 +34,4 @@ Contributions are welcome! If you have any ideas for improvement or bug fixes, f
 
 ## Author 
 This site was built by [GitHub Pages]([https://pages.github.com/](https://github.com/foreshubham/Note-Pad)https://github.com/foreshubham/).
+Feel free to make changes
